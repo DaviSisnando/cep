@@ -20,12 +20,12 @@ via API do ViaCEP, armazená-los localmente e listá-los.
 
 ## Como Instalar e Executar
 1. Clone o repositório:
-   ```sh
-   git clone https://github.com/DaviSisnando/cep.git
+  ```sh
+  git clone https://github.com/DaviSisnando/cep.git
    ```
 2. Acesse a pasta do projeto:
   ```sh
-   cd cep
+  cd cep
    ```
 3. Instale as dependências:
   ```sh
